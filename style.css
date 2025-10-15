@@ -1,0 +1,49 @@
+body {
+    
+    background-color: hsl(204, 54%, 59%);
+}
+/* p {
+    color:brown;
+} */
+
+#first {
+    color:red;
+    text-decoration: overline;
+    text-align: center;
+    text-transform: uppercase;
+}
+#second{
+    color:green;
+
+}
+
+.new {
+    color:darkblue;
+}
+
+#colour {
+
+    color:rgb()
+}
+
+p {
+    letter-spacing: 0px;
+    line-height:10px;
+}
+h2 {
+    font-size: 2rem;
+}
+
+#para {
+    font-size:3em;
+    font-style:italic;
+}
+
+
+#circle {
+    height:200px;
+    width:200px;
+    background-color: yellow;
+    border:20px solid black;
+
+}
